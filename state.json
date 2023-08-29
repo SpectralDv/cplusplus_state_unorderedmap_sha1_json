@@ -1,0 +1,9 @@
+{
+    "idle":[0],
+    "cars":[1],
+    "bmw":
+    {
+        "maxSpeed":"300",
+        "maxFuel":"40"
+    }
+}
